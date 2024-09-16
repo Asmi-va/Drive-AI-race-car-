@@ -1,3 +1,4 @@
+![preview](https://github.com/user-attachments/assets/70689ec4-8afe-49f7-b8ed-6e3a32dd8a6d)
 # Drive-AI-race-car-
 Here’s a sample README file for your car simulation project using NEAT and Pygame. This README provides an overview of the project, installation instructions, usage, and any relevant details.
 
